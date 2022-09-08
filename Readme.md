@@ -19,3 +19,6 @@ This project will support only command line execution.
 ## Refer the samples below
 ![image](https://user-images.githubusercontent.com/113073809/189060243-9e030f33-1922-435d-91a8-96fd057817d0.png)
 
+![image](https://user-images.githubusercontent.com/113073809/189060630-733dde50-cd48-4f48-870a-5fe235ca492b.png)
+
+
