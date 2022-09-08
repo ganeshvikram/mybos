@@ -92,7 +92,7 @@ class Findpath extends ReadCsvFile{
 
     	$arrResultPath = $objPathfind->PathAlgorithm($this->varFromNode,$this->varTomNode,$this->varLatency,$this->arrFormatedCSVinputByDirection);
 
-    	echo (!is_array($arrResultPath) || $arrResultPath=='')? "Output : Pathnot found\n": "Output : ".implode(' => ',$arrResultPath)."\n";
+    	echo (!is_array($arrResultPath) || $arrResultPath=='')? "Output : Path not found\n": "Output : ".implode(' => ',$arrResultPath)."\n";
     	$this->findPath();
 
     } 
